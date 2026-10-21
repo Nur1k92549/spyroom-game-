@@ -1,6 +1,6 @@
 (() => {
   // 1) Firebase жобасын Firebase Console-дан ашып, төмендегі конфигурацияны өз жобаңызбен ауыстырыңыз.
-  const firebaseConfig = {
+  const firebaseConfig = {https://spyroom-game-default-rtdb.firebaseio.com/
     apiKey: "YOUR_API_KEY",
     authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
     databaseURL: "https://YOUR_PROJECT_ID-default-rtdb.firebaseio.com",
